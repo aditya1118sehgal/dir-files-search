@@ -1,0 +1,22 @@
+{
+  "name": "dir-files-search",
+  "version": "1.0.0",
+  "description": "Searches for specified text in all files within the specified directory.",
+  "main": "search.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aditya1118sehgal/dir-files-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aditya1118sehgal/dir-files-search/issues"
+  },
+  "homepage": "https://github.com/aditya1118sehgal/dir-files-search#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
